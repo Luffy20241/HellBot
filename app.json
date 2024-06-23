@@ -1,5 +1,5 @@
 {
-    "name": "The HellBot",
+    "name": " ungabunga",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
     "logo": "https://te.legra.ph/file/31c5a08f0941b8fbb3f66.png",
     "keywords": [
@@ -38,11 +38,11 @@
         },
         "OWNER_ID": {
             "description": "Your user id.",
-            "value": ""
+            "value": "1908235162"
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
-            "value": "1908235162"
+            "value": "ungabunga"
         },
         "HEROKU_APIKEY": {
             "description": "Heroku api key. Get it from https://dashboard.heroku.com/account",
