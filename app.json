@@ -13,19 +13,19 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "c906bdd79dae0c7e6b8446db37128705"
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "24464839"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
-            "value": ""
+            "value": "7263947473:AAF3LNyxNHcPlx5XQ4aaKtNoEyko7Vb6QYg"
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://slac:slac@usrbot.9d549xh.mongodb.net/?retryWrites=true&w=majority&appName=Usrbot"
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
@@ -34,7 +34,7 @@
         },
         "LOGGER_ID": {
             "description": "The chat id of your logging channel/group.",
-            "value": ""
+            "value": "-1001802445568"
         },
         "OWNER_ID": {
             "description": "Your user id.",
@@ -42,11 +42,11 @@
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
-            "value": ""
+            "value": "1908235162"
         },
         "HEROKU_APIKEY": {
             "description": "Heroku api key. Get it from https://dashboard.heroku.com/account",
-            "value": ""
+            "value": "HRKU-7c873fda-ceec-4f6c-8909-a0001beb2d69"
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
@@ -55,7 +55,7 @@
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "The-HellBot/HellBot",
+            "value": "Luffy20241/HellBot",
             "required": false
         }
     },
